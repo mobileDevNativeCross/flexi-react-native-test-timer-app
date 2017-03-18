@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/kilakola/Downloads/flex-react-native-test-master/flexi/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/kilakola/Downloads/flex-react-native-test-master/flexi/android/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-23.0.1_8b9035f9141c732e310e185918931d9bdd945d29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kilakola/Downloads/flex-react-native-test-master/flexi/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/kilakola/Downloads/flex-react-native-test-master/flexi/android/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-23.4.0_0ee05fc9ae2ea2e8f30d2fc85bc9507bf3c116f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kilakola/Downloads/flex-react-native-test-master/flexi/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Users/kilakola/Downloads/flex-react-native-test-master/flexi/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-fresco-0.11.0_b739c7e6aa9e8a60ebab24afbbc3cc89a9a9dcbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kilakola/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/kilakola/Downloads/flex-react-native-test-master/flexi/android/app/build/intermediates/pre-dexed/release/javax.inject-1_04d95041e49a821765a0f1995126c2d22e4f1f3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kilakola/Downloads/flex-react-native-test-master/flexi/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Users/kilakola/Downloads/flex-react-native-test-master/flexi/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-imagepipeline-base-0.11.0_7d663b992c4d705aa906445aff71308cd493f43c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kilakola/Downloads/flex-react-native-test-master/flexi/android/app/build/intermediates/exploded-aar/flexi/react-native-background-timer/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="38020375c4dd574413acaf21f00a4173e72b3998">
+        <dex dex="/Users/kilakola/Downloads/flex-react-native-test-master/flexi/android/app/build/intermediates/pre-dexed/release/flexi-react-native-background-timer-unspecified_77ed9f0727502c8bc38f5d9e98a5d2b0741409e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kilakola/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/kilakola/Downloads/flex-react-native-test-master/flexi/android/app/build/intermediates/pre-dexed/release/staticlayout-proxy-1.0_eb926ed02b57313253d5a1742f5abe32bee88a7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kilakola/Downloads/flex-react-native-test-master/flexi/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Users/kilakola/Downloads/flex-react-native-test-master/flexi/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-fbcore-0.11.0_56033b6fe4e605ebd689198a64e7fc7fe28e7130.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kilakola/Downloads/flex-react-native-test-master/flexi/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/kilakola/Downloads/flex-react-native-test-master/flexi/android/app/build/intermediates/pre-dexed/release/com.facebook.soloader-soloader-0.1.0_56fd50f1f6a6eefb8f660b5ef30320e83f91d179.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kilakola/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/kilakola/Downloads/flex-react-native-test-master/flexi/android/app/build/intermediates/pre-dexed/release/support-annotations-23.4.0_c3452ea3908c8650abe306cec4ccc1981fced462.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kilakola/Downloads/flex-react-native-test-master/flexi/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="2b8a01ad9da5d26d0067894c22e87597bca2c500">
+        <dex dex="/Users/kilakola/Downloads/flex-react-native-test-master/flexi/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-imagepipeline-okhttp3-0.11.0_c9ebc6576df2fad67344a853c0ec95f13087d701.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kilakola/Downloads/flex-react-native-test-master/flexi/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/kilakola/Downloads/flex-react-native-test-master/flexi/android/app/build/intermediates/pre-dexed/release/internal_impl-23.4.0_d10a1e06bc5cac1d2e1b50645d294326161e4357.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kilakola/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/kilakola/Downloads/flex-react-native-test-master/flexi/android/app/build/intermediates/pre-dexed/release/okhttp-3.4.1_d9bc00997e428159f73a71954410e316737e02be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kilakola/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-ws/3.4.1/8ace66ef7002d98f633377c9e67daeeb196d8c3b/okhttp-ws-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8ace66ef7002d98f633377c9e67daeeb196d8c3b">
+        <dex dex="/Users/kilakola/Downloads/flex-react-native-test-master/flexi/android/app/build/intermediates/pre-dexed/release/okhttp-ws-3.4.1_454921e55faf11076da5f5bfde056497c96aaaf6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kilakola/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.4.1/63994437f62bc861bc20c605d12962f7246116d1/okhttp-urlconnection-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="63994437f62bc861bc20c605d12962f7246116d1">
+        <dex dex="/Users/kilakola/Downloads/flex-react-native-test-master/flexi/android/app/build/intermediates/pre-dexed/release/okhttp-urlconnection-3.4.1_e96d557191fbf4a8e4d4bc49bb5d17757add4777.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kilakola/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/kilakola/Downloads/flex-react-native-test-master/flexi/android/app/build/intermediates/pre-dexed/release/library-2.4.0_21807a09332b1ca391788732b0e2cd7eb7f0efd7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kilakola/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/kilakola/Downloads/flex-react-native-test-master/flexi/android/app/build/intermediates/pre-dexed/release/jsr305-3.0.0_3616433ce17aff29fa3f95e77b739c84fae4ffaa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kilakola/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/kilakola/Downloads/flex-react-native-test-master/flexi/android/app/build/intermediates/pre-dexed/release/okio-1.9.0_765c838630cdef4f6b7a6e09aac18ba68f4440d3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kilakola/Downloads/flex-react-native-test-master/flexi/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Users/kilakola/Downloads/flex-react-native-test-master/flexi/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-imagepipeline-0.11.0_f500d204ff6e25c5753a6b140f519a371b8ef383.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kilakola/Downloads/flex-react-native-test-master/flexi/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.42.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="962b06c207e808c0557ffd6163ac584025a96021">
+        <dex dex="/Users/kilakola/Downloads/flex-react-native-test-master/flexi/android/app/build/intermediates/pre-dexed/release/com.facebook.react-react-native-0.42.2_2ced6b4160f3dc550dd74967199dcfa432c436d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kilakola/Downloads/flex-react-native-test-master/flexi/android/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/kilakola/Downloads/flex-react-native-test-master/flexi/android/app/build/intermediates/pre-dexed/release/com.android.support-recyclerview-v7-23.4.0_a1c5f675a3501ffb4391b20adc52fd24e03711d6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kilakola/Downloads/flex-react-native-test-master/flexi/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Users/kilakola/Downloads/flex-react-native-test-master/flexi/android/app/build/intermediates/pre-dexed/release/com.facebook.fresco-drawee-0.11.0_77b7bcc545d77bd245e79e8e497ee2d7921939dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kilakola/Downloads/flex-react-native-test-master/flexi/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/kilakola/Downloads/flex-react-native-test-master/flexi/android/app/build/intermediates/pre-dexed/release/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_53ff541ea1fc3b0163c89d122004f08e6206d5f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kilakola/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/kilakola/Downloads/flex-react-native-test-master/flexi/android/app/build/intermediates/pre-dexed/release/bolts-tasks-1.4.0_71435d2eb732d66fae37cc465a6c8d47b9954d1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/kilakola/Downloads/flex-react-native-test-master/flexi/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.42.2/jars/libs/infer-annotations-1.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="dcac634e137395f79693ec760f081a86eb2bd84e">
+        <dex dex="/Users/kilakola/Downloads/flex-react-native-test-master/flexi/android/app/build/intermediates/pre-dexed/release/infer-annotations-1.5_b3b51f3fcae330c0e5d31f2a9a75c3f724601653.jar" />
+    </item>
+
+</items>
